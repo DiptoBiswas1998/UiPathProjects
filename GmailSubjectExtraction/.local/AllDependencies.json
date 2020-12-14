@@ -3491,11 +3491,11 @@
   },
   "project": {
     "restore": {
-      "projectUniqueName": "Covid19Data",
-      "projectName": "Covid19Data",
-      "projectPath": "E:\\UI Path\\Projects\\UiPathProjects\\Covid19Data\\.local",
+      "projectUniqueName": "GmailSubjectExtraction",
+      "projectName": "GmailSubjectExtraction",
+      "projectPath": "E:\\UI Path\\Projects\\UiPathProjects\\GmailSubjectExtraction\\.local",
       "packagesPath": "C:\\Users\\admin\\.nuget\\packages\\",
-      "outputPath": "E:\\UI Path\\Projects\\UiPathProjects\\Covid19Data\\.local"
+      "outputPath": "E:\\UI Path\\Projects\\UiPathProjects\\GmailSubjectExtraction\\.local"
     },
     "frameworks": {
       "net461": {
